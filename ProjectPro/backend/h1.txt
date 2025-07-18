@@ -1,0 +1,4 @@
+1.install the node.js
+2.npm
+3.we create rest api using express
+4.we use mongo for data store

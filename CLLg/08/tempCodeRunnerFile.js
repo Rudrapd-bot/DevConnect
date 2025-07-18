@@ -1,0 +1,2 @@
+s = "shyam";
+console.lo
